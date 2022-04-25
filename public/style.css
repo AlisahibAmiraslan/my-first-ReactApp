@@ -1,0 +1,24 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.card{
+  width: 400px!important;
+}
+
+.header{
+  color: crimson!important;
+  font-size: 25px!important;
+}
+
+.comment img{
+  width: 80px!important;
+  height: 80px!important;
+}
+
+.comment{
+  display: flex;
+}
