@@ -12,7 +12,7 @@ It is my first react project. İ know that it is a simple project. But I am sure
   **2) RUN**
  
 ```
-  npm run dev
+  npm start
 ```
 
 This Will Run Json-Server On Port :5000 And React On Port :3000
